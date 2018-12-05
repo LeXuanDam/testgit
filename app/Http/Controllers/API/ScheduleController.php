@@ -221,5 +221,7 @@ class ScheduleController extends Controller
             "code" => 200,
             "message" => "Xóa thành công schedule #$id",
         ]);
+die;
     }
+
 }
